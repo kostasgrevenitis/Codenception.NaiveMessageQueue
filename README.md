@@ -1,4 +1,4 @@
-# Codenception.NaiveMessageQueue
+# Codenception Naive Message Queue
 
 🚧 Work in progress. It can't be used yet! 🚧
 
